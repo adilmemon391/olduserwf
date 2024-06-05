@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "817426707050",
+    "project_id": "gmart-ad47d",
+    "storage_bucket": "gmart-ad47d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817426707050:android:008717c938d25ee6b05013",
+        "android_client_info": {
+          "package_name": "com.gmaart.ordernow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnGvXP0Ap9yjxadM4nCep_CBwGJ_o4vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817426707050:android:7142ba6cefbe9d2cb05013",
+        "android_client_info": {
+          "package_name": "com.gmart.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnGvXP0Ap9yjxadM4nCep_CBwGJ_o4vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:817426707050:android:f3c956aa0c743f5db05013",
+        "android_client_info": {
+          "package_name": "com.gmart.seller"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSnGvXP0Ap9yjxadM4nCep_CBwGJ_o4vI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
